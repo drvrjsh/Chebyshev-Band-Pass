@@ -1,5 +1,5 @@
 # Chebyshev-Band-Pass
-MATLAB simulation of a 4th-order active band-pass filter with a Chebyshev response
+MATLAB simulation of a 4th-order active band-pass filter with a Chebyshev response. Includes frequency and time-domain analysis, including Bode and Nyquist plots, pole-zero analysis, and step/impulse/ramp/sinusoidal responses. 
 
 Based on design calculations with the constraints:
 - Band-pass action
